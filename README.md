@@ -1,14 +1,16 @@
-# 💻 Huzaifa Khurram | Python Developer
+👋 Hi, I’m Huzaifa
 
-**Specializing in Automation & Scripting**  
-*Building solutions to streamline workflows*
+⚡ Software | 🤖 AI | 🔒 Security
+Code that Creates. Code that Learns. Code that Defends.
 
----
+🛠 Tech Stack
 
-## 🛠️ Technical Skills
-```python
-current_skills = {
-    "Core Python": ["OOP", "Data Structures", "Error Handling"],
-    "Automation": ["Web Scraping", "File Processing", "Data Extraction"],
-    "Tools": ["Git", "VS Code", "Jupyter Notebooks"]
-}
+Python • JavaScript • AI/ML • Cybersecurity • Git/GitHub • APIs • Linux
+
+💡 Mindset
+
+Build smart.
+Think secure.
+Automate everything.
+
+✨ Always learning. Always building. Always defending.
