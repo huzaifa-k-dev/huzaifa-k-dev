@@ -5,7 +5,7 @@ Code that Creates. Code that Learns. Code that Defends.
 
 🛠 Tech Stack
 
-Python • JavaScript • AI/ML • Cybersecurity • Git/GitHub • APIs • Linux
+Python • Typescript • AI/ML • Cybersecurity • Git/GitHub • APIs • Linux
 
 💡 Mindset
 
