@@ -1,4 +1,4 @@
-👋 Hi, I’m Huzaifa
+I’m Huzaifa
 
 ⚡ Software | 🤖 AI  | 🔒 Security
 Code that Creates. Code that Learns. Code that Defends.
